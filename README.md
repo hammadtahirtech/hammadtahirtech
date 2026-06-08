@@ -8,4 +8,4 @@ Now I'm 15 and spend most of my time building web apps to solve problems that I 
 
 Besides software, I'm also really interested in AI, compute, and research. I enjoy learning how things work, building things, and occasionally going down rabbit holes that start with a simple question.
 
-Current project -> [https://formerly-trial-version.vercel.app]
+Current project -> https://formerly-trial-version.vercel.app
