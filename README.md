@@ -1,3 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is hammad and i am a technolog. If you don't know what technolog means, it means someone who loves technology and is passionate about it. I started learning how to code when i was 12, and successfully learned full-stack web development at the age of 14. Currently, i'm 15, and i build web-apps to solve problems that i have and that people have. I am also really passionate about ai, compute, and research. 
+My name is Hammad and I am a technolog.
+
+A technolog is someone who loves technology and is passionate about it. I started learning how to code when I was 12 and learned full-stack web development by the age of 14.
+
+Now I'm 15 and spend most of my time building web apps to solve problems that I have and problems that other people have.
+
+Besides software, I'm also really interested in AI, compute, and research. I enjoy learning how things work, building things, and occasionally going down rabbit holes that start with a simple question.
